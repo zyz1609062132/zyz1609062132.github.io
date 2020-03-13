@@ -1,0 +1,15 @@
+{
+	"ApiUrl_prd": "https://puf-crm.pingan.com.cn",
+	"ApiUrl_stg": "https://puf-crm-stg.pingan.com.cn:10794",
+	"timeout":10000,
+	"cFundType": {
+		"fCurrency": "0",
+		"fBond": "1",
+		"fShares": "2",
+		"fBlend": "3",
+		"fIndex": "4",
+		"fETF": "5",
+		"fETFconnection": "6",
+		"fPrivateequity": "7"
+	}
+}
